@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5d09615-e8ae-40e8-9ec1-0dd3f9f8c0dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final_Project_report(sujata sahoo).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/bg222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/bg333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/bg444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/bg45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/facebook.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/github.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image1111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image11111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image2222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image22222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image3333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image33333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image4444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/image44444.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/imgregpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/instagram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/linkedin1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/loginpage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/r.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/regpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/student1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/student2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registration_page.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2rpt9JgHmq15yATzgYAkHMGr4ac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Home_page.executor": "Run",
+    "Python.im.executor": "Run",
+    "Python.login_page.executor": "Run",
+    "Python.registration_page.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Graphical-password-main",
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Home_page" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Graphical-Password-Authentication-System-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Home_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Home_page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d09615-e8ae-40e8-9ec1-0dd3f9f8c0dd" name="Changes" comment="" />
+      <created>1737267692743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737267692743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/login_page.py</url>
+          <line>221</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/login_page.py</url>
+          <line>786</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/registration_page.py</url>
+          <line>344</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/registration_page.py</url>
+          <line>279</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
